@@ -9,9 +9,21 @@
 	</supportedVersions>
 	<packageId>Ogam.Rimedieval.Royalty</packageId>
 	<description>
-Credits:
-Code: C# - Taranchuk
-Art: Ogam
+	Replaces the equipment of the Empire's pawnkinds from the Royalty DLC. Best to play alond with Rimedieval - Medieval Conversion mod.
+	Adds new Byzantine inspired armors and weapons:
+
+	- Footman Armor
+	- Scout Armor
+	- Varangian Armor
+
+	- Imperial Sabre
+	- Varangian Axe
+	- Firepot Bomb
+	- Firethrower
+
+	Credits:
+	Code: C# - Taranchuk
+	Art: Ogam
 </description>
 <modDependencies>
     <li>
